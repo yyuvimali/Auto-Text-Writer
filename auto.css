@@ -1,0 +1,16 @@
+body { background-color: cyan;}
+#auto {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    font-size: 2rem;
+}
+
+#btn {
+    position: fixed;
+    bottom: 38%;
+    right: 48%;
+    color: cyan;
+    background-color: black;
+}
